@@ -37,6 +37,10 @@ video {
     height: 100vh;
 }
 
+.list p {
+    text-align: left;
+}
+
 
 /* .section {
     text-align: center;
